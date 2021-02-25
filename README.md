@@ -17,6 +17,6 @@ A compressing, error correcting data transfer protocall I made for a class. I im
 >     burst errors or malicious errors.)
 > 
 >V)   correct errors                 decoded.xxx     |
->                                                    | restore
+>                                                     | restore
 >VI)  uncompress                     final.txt       |  
 >```
